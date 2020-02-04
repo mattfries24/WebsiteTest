@@ -1,0 +1,10 @@
+# redirect file
+# i have no idea what i am doing
+/
+/about
+/digital
+/film
+/other-categories
+/concentration
+/darkroom
+/other-other-categories
