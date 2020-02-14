@@ -22,7 +22,25 @@ div.nameA {
 
 div.link1 {
   margin-left: 8px;
-  width: 500px;
-  background-color: ##A9DCB8;
+  width: 625px;
+  background-color: #A9DCB8;
   transition: 0.3s;
+}
+
+h2.links {
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  margin-left: 15px;
+  font-weight: bold;
+  font-size: 54px;
+  color: black;
+  transition: 0.3s;
+}
+
+div.link1:hover{
+  background-color: black;
+}
+
+#linkDiv:hover #links{
+  color: #A9DCB8;
 }
