@@ -21,7 +21,7 @@ div.nameA {
 }
 
 h1.aboutHeader{
-  margin-left: 10px;
+  margin-left: 20px;
   color: white;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: bold;
@@ -30,7 +30,7 @@ h1.aboutHeader{
 
 div.aboutDiv{
   width: 50%;
-  margin-left: 10px;
+  margin-left: 20px;
   background-color: inherit;
   height: auto;
 }
