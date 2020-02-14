@@ -21,28 +21,28 @@ div.nameA {
 }
 
 div.link1 {
-  margin-left: 8px;
+  margin-left: 20px;
   width: 625px;
   background-color: #A9DCB8;
   transition: 0.3s;
 }
 
 div.link2 {
-  margin-left: 8px;
+  margin-left: 20px;
   width: 625px;
   background-color: #A9DCB8;
   transition: 0.3s;
 }
 
 div.link3 {
-  margin-left: 8px;
+  margin-left: 20px;
   width: 625px;
   background-color: #A9DCB8;
   transition: 0.3s;
 }
 
 div.link4 {
-  margin-left: 8px;
+  margin-left: 20px;
   width: 625px;
   background-color: #A9DCB8;
   transition: 0.3s;
@@ -59,6 +59,27 @@ h2.links {
 }
 
 div.link1:hover{
+  background-color: black;
+}
+
+#linkDiv:hover #links{
+  color: #A9DCB8;
+}
+div.link2:hover{
+  background-color: black;
+}
+
+#linkDiv:hover #links{
+  color: #A9DCB8;
+}
+div.link3:hover{
+  background-color: black;
+}
+
+#linkDiv:hover #links{
+  color: #A9DCB8;
+}
+div.link4:hover{
   background-color: black;
 }
 
