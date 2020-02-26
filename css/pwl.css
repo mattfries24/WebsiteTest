@@ -63,3 +63,7 @@ img.portImg {
   height: auto;
   margin: 0 auto;
 }
+div.nameA:hover{
+  background-color: #A9DCB8;
+  box-shadow: 10px 10px #F2CC24;
+}
