@@ -13,59 +13,59 @@ h2.name1 {
 }
 
 div.nameA {
-  background-color: #F2CC24;
+  background-color: #FAC9B8;
   width: 155px;
   height: 85px;
   margin-left: 10px;
   margin-top: 20px;
-  box-shadow: 10px 10px #A9DCB8;
+  box-shadow: 10px 10px #065143;
   transition: 0.3s;
 }
 
 div.link1 {
   margin-left: 20px;
   width: 625px;
-  background-color: #f2cc24;
+  background-color: #FAC9B8;
   transition: 0.3s;
 }
 
 div.link2 {
   margin-left: 20px;
   width: 625px;
-  background-color: #f2cc24;
+  background-color: #FAC9B8;
   transition: 0.3s;
 }
 
 div.link3 {
   margin-left: 20px;
   width: 625px;
-  background-color: #f2cc24;
+  background-color: #FAC9B8;
   transition: 0.3s;
 }
 
 div.link5 {
   margin-left: 20px;
   width: 625px;
-  background-color: #f2cc24;
+  background-color: #FAC9B8;
   transition: 0.3s;
 }
 
 div.link4 {
   margin-left: 20px;
   width: 625px;
-  background-color: #f2cc24;
+  background-color: #FAC9B8;
   transition: 0.3s;
 }
 div.link6 {
   margin-left: 20px;
   width: 625px;
-  background-color: #f2cc24;
+  background-color: #FAC9B8;
   transition: 0.3s;
 }
 div.link7 {
   margin-left: 20px;
   width: 625px;
-  background-color: #f2cc24;
+  background-color: #FAC9B8;
   transition: 0.3s;
 }
 
@@ -91,7 +91,7 @@ div.link2:hover{
 }
 
 #linkDiv:hover #links{
-  color: #F2CC24;
+  color: #FAC9B8;
 }
 div.link3:hover{
   background-color: black;
@@ -113,10 +113,10 @@ div.link7:hover{
   background-color: black;
 }
 #linkDiv:hover #links{
-  color: #F2CC24;
+  color: #FAC9B8;
 }
 
 div.nameA:hover{
-  background-color: #A9DCB8;
-  box-shadow: 10px 10px #F2CC24;
+  background-color: #065143;
+  box-shadow: 10px 10px #FAC9B8;
 }
