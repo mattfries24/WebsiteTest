@@ -12,12 +12,13 @@ h2.name1 {
 }
 
 div.nameA {
-  background-color: #F2CC24;
-  width: 155px;
-  height: 85px;
-  margin-left: 10px;
-  margin-top: 20px;
-  box-shadow: 10px 10px #A9DCB8;
+background-color: #FAC9B8;
+width: 155px;
+height: 85px;
+margin-left: 10px;
+margin-top: 20px;
+box-shadow: 10px 10px #065143;
+transition: 0.3s;
 }
 
 h1.pwlecHeader{
@@ -64,6 +65,6 @@ img.portImg {
   margin: 0 auto;
 }
 div.nameA:hover{
-  background-color: #A9DCB8;
-  box-shadow: 10px 10px #F2CC24;
+background-color: #065143;
+box-shadow: 10px 10px #FAC9B8;
 }
