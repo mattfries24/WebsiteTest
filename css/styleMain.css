@@ -12,39 +12,39 @@ h2.name1 {
 }
 
 div.nameA {
-  background-color: #F2CC24;
+  background-color: #FAC9B8;
   width: 155px;
   height: 85px;
   margin-left: 10px;
   margin-top: 20px;
-  box-shadow: 10px 10px #A9DCB8;
+  box-shadow: 10px 10px #065143;
 }
 
 div.link1 {
   margin-left: 20px;
   width: 625px;
-  background-color: #A9DCB8;
+  background-color: #065143;
   transition: 0.3s;
 }
 
 div.link2 {
   margin-left: 20px;
   width: 625px;
-  background-color: #A9DCB8;
+  background-color: #065143;
   transition: 0.3s;
 }
 
 div.link3 {
   margin-left: 20px;
   width: 625px;
-  background-color: #A9DCB8;
+  background-color: #065143;
   transition: 0.3s;
 }
 
 div.link4 {
   margin-left: 20px;
   width: 625px;
-  background-color: #A9DCB8;
+  background-color: #065143;
   transition: 0.3s;
 }
 
@@ -54,7 +54,7 @@ h2.links {
   margin-left: 15px;
   font-weight: bold;
   font-size: 54px;
-  color: black;
+  color: white;
   transition: 0.3s;
 }
 
@@ -84,5 +84,5 @@ div.link4:hover{
 }
 
 #linkDiv:hover #links{
-  color: #A9DCB8;
+  color: #065143;
 }
