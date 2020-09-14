@@ -3,7 +3,7 @@ body.indexA {
 }
 
 h2.name1 {
-  font-family: Franklin Gothic Medium,Franklin Gothic,ITC Franklin Gothic,sans-serif;
+  font-family: Franklin Gothic Medium,sans-serif;
   color: black;
   margin-left: 7px;
   margin-top: 10px;
@@ -49,7 +49,7 @@ div.link4 {
 }
 
 h2.links {
-  font-family: Franklin Gothic Medium,Franklin Gothic,ITC Franklin Gothic,sans-serif;
+  font-family: Franklin Gothic Medium,sans-serif;
   text-decoration: none;
   margin-left: 15px;
   font-weight: bold;
